@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    /* background: burlywood; */
+}
+
+.Main{
+    width: 100%;
+}
+
+.narvar-text{
+    font-size: large;
+}
+
+.nav-item{
+    padding-left: 70px;
+}
+
+.gap{
+    margin: 5px 15px;
+}
+
